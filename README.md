@@ -1,5 +1,13 @@
 # 🔥 Sequence-to-Sequence Event Prediction
 
+## In Simple Words
+
+Some events happen in a sequence, and earlier events may give clues about what comes next. This project teaches a computer to study those patterns and predict later events, then checks how reliable the predictions are.
+
+**Real-life example:** Imagine a simulator produces a series of events. The model learns from earlier sequences to predict a possible future sequence.
+
+---
+
 🚀 **An advanced deep learning-based sequence-to-sequence (Seq2Seq) model for event prediction with cross-validation, hyperparameter tuning, and robust evaluation.**
 
 🔗 **GitHub Repository:** [Sequence-to-Sequence Event Prediction](https://github.com/ShalinVachheta017/sequence-2-sequence-Event-Prediction/tree/main)
