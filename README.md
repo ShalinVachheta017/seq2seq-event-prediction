@@ -13,7 +13,7 @@ I prepared event sequences, trained the model, and compared different settings t
 
 🚀 **An advanced deep learning-based sequence-to-sequence (Seq2Seq) model for event prediction with cross-validation, hyperparameter tuning, and robust evaluation.**
 
-🔗 **GitHub Repository:** [Sequence-to-Sequence Event Prediction](https://github.com/ShalinVachheta017/sequence-2-sequence-Event-Prediction/tree/main)
+🔗 **GitHub Repository:** [Sequence-to-Sequence Event Prediction](https://github.com/ShalinVachheta017/seq2seq-event-prediction/tree/main)
 
 ---
 
@@ -101,8 +101,8 @@ The project can serve as a strong baseline for future extensions such as attenti
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ShalinVachheta017/sequence-2-sequence-Event-Prediction.git
-cd sequence-2-sequence-Event-Prediction
+git clone https://github.com/ShalinVachheta017/seq2seq-event-prediction.git
+cd seq2seq-event-prediction
 ```
 
 ### 2️⃣ Install Dependencies
