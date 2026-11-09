@@ -2,20 +2,9 @@
 
 ## Project Summary
 
-### What is this project?
-This project learns from event sequences and predicts what may happen next.
+Imagine watching a series of events and trying to guess what might happen next. Earlier events can give clues about later ones. This project uses a deep learning model to learn from event sequences and predict future events. The challenge is learning how the order of events changes what may happen.
 
-### Why is it interesting?
-The order of earlier events can give clues about later events.
-
-### How does it work?
-A model learns patterns in recorded sequences and is evaluated on data it has not seen before.
-
-### Real-life example
-A simulator records events, and the model predicts a possible next sequence.
-
-### What did I learn?
-I learned to train, tune, and evaluate models for ordered data.
+I prepared event sequences, trained the model, and compared different settings to test its predictions. For example, a simulator can produce a chain of events, and the model can estimate what may follow. I learned how to work with time-based data, tune models, and evaluate them carefully instead of trusting training results alone.
 
 ---
 
